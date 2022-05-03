@@ -1,0 +1,31 @@
+.producto{
+	width: 300px;
+	padding: 5px;
+	text-align: center;
+	border: solid;
+	border-radius: 5px;
+	border-color: #7776BC;
+	margin: 5px;
+}
+.box{
+	display: flex;
+	flex-wrap: wrap;
+	align-content: space-between;
+	justify-content: center;
+}
+body{
+	background-color: #CDC7E5;
+}
+
+.producto h2{
+	font-size: medium;
+	font-family: sans-serif;
+}
+.producto img{
+	width: 260px;
+	border-radius: 5px;
+}
+.tit{
+	text-align: center;
+}
+
